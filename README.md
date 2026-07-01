@@ -18,6 +18,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/despagoetry/dsa-java/tree/master/0509-fibonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Memoization
@@ -31,6 +32,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
