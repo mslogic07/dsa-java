@@ -1,2 +1,18 @@
 # dsa-java
 This repository contains my Java solutions to LeetCode problems, organized by topics such as Arrays, Strings, Stack, Queue, HashMap, Trees, Dynamic Programming, Graphs, and more.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics End-->
