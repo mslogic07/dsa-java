@@ -18,6 +18,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/despagoetry/dsa-java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/despagoetry/dsa-java/tree/master/0509-fibonacci-number) |
@@ -32,6 +33,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/despagoetry/dsa-java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
@@ -56,6 +58,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/despagoetry/dsa-java/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/despagoetry/dsa-java/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
