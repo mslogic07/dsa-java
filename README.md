@@ -24,6 +24,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -31,6 +32,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
+| [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/despagoetry/dsa-java/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Simulation
 |  |
 | ------- |
+| [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
@@ -75,4 +78,5 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/despagoetry/dsa-java/tree/master/0155-min-stack) |
+| [2043-simple-bank-system](https://github.com/despagoetry/dsa-java/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
