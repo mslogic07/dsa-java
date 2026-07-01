@@ -33,4 +33,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/despagoetry/dsa-java/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
