@@ -48,6 +48,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/despagoetry/dsa-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/despagoetry/dsa-java/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
