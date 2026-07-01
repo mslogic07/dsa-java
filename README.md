@@ -23,6 +23,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,12 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Matrix
+|  |
+| ------- |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/despagoetry/dsa-java/tree/master/2257-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
