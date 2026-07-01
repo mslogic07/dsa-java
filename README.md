@@ -6,6 +6,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/despagoetry/dsa-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/despagoetry/dsa-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
