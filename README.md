@@ -28,6 +28,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/despagoetry/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
