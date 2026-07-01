@@ -12,6 +12,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/despagoetry/dsa-java/tree/master/0070-climbing-stairs) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | ------- |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/despagoetry/dsa-java/tree/master/0485-max-consecutive-ones) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +39,12 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/despagoetry/dsa-java/tree/master/0237-delete-node-in-a-linked-list) |
+## String
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/despagoetry/dsa-java/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
