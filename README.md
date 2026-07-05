@@ -34,6 +34,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/despagoetry/dsa-java/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/despagoetry/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/despagoetry/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/despagoetry/dsa-java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/despagoetry/dsa-java/tree/master/0041-first-missing-positive) |
@@ -89,6 +90,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/despagoetry/dsa-java/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/despagoetry/dsa-java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/despagoetry/dsa-java/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/despagoetry/dsa-java/tree/master/0344-reverse-string) |
@@ -153,4 +155,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0035-search-insert-position](https://github.com/despagoetry/dsa-java/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/despagoetry/dsa-java/tree/master/0704-binary-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/despagoetry/dsa-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
