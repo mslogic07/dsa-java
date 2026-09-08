@@ -42,6 +42,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0066-plus-one](https://github.com/despagoetry/dsa-java/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/despagoetry/dsa-java/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/despagoetry/dsa-java/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/despagoetry/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/despagoetry/dsa-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/despagoetry/dsa-java/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/despagoetry/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -159,4 +160,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/despagoetry/dsa-java/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/despagoetry/dsa-java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
